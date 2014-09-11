@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1404105020 source:d:\codepractice\stringalgo\substringmatching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

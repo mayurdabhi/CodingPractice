@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1404409617 source:d:\codepractice\hackerrank\best_spot_w6_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<math.h>
+

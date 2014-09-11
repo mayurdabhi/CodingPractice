@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404122520 source:d:\codepractice\stringalgo\tries2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

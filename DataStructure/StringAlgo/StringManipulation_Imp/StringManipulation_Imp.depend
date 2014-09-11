@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1406478245 source:d:\codepractice\stringalgo\stringmanipulation_imp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1407314433 source:d:\codepractice\ms\ipvalidation\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

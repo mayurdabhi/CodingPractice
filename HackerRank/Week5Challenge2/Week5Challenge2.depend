@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403025883 source:d:\codepractice\hackerrank\week5challenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

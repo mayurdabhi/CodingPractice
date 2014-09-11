@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404328442 source:d:\codepractice\cci\ch1\main.cpp
+	<iostream>
+	<string>
+	<list>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1403551484 source:d:\codepractice\graph\dijkstraalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+

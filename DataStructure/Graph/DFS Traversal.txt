@@ -1,0 +1,116 @@
+
+/*
+Input :
+
+8 8
+0 1
+1 2
+2 3
+1 6
+2 4
+4 5
+4 7
+
+*/
+
+
+
+#include <stdio.h>
+#include <stdlib.h>
+
+
+struct graph {
+
+    int v;
+    int e;
+	int **adj;
+};
+
+struct graph* createGraph(){
+	
+	struct graph * g = (struct graph *) malloc(sizeof(struct graph));
+	
+	if(!g){
+		printf("Memory Error\n");
+	}
+    
+    printf("Enter Vertices and Edges :");
+	scanf("%d %d",&g->v, &g->e);
+    
+ //   scanf("Enter Vertices and Edges :%d %d",&g->v, &g->e);
+  
+	int** a = malloc(g->v * sizeof(int*));
+    int k;
+    for (k = 0; k < g->v; k++) {
+        a[k] = malloc(g->v * sizeof(int));
+    }
+    
+    g->adj = a;
+		
+	if(!g->adj){
+		printf("Memory Error\n");
+	}
+
+	int v,u,j;
+
+
+		
+	for(j=0;j<g->e;j++){
+				
+		printf("Enter Edges :\n");
+		scanf("%d %d", &v,&u);
+    //    scanf("Enter Edges :%d %d", &v,&u);
+		g->adj[v][u] = 1;
+		g->adj[u][v] =1;
+	}
+	
+
+
+	return g;
+	
+}
+
+
+int visited[20]={0};
+
+void DFS(struct graph *g, int vertex){
+	
+	visited[vertex]=1;
+	printf("Visiting node %d \n",vertex);
+	int v,u,i;
+	v= vertex;
+
+	for(u=0;u<g->v;u++)
+	{
+		if(!visited[u] && g->adj[v][u]){
+			
+			DFS(g,u);
+			
+		}
+	}
+
+}
+
+void DFSTraversal(struct graph *g){
+	int u;
+	for(u=0;u<g->v;u++)
+	{
+		visited[u]=0;
+	}
+	
+	for(u=0;u<g->v;u++)
+	{
+		if(!visited[u])
+			DFS(g,u);
+	}
+	
+}
+
+int main(){
+	
+	struct graph* gTest = createGraph();
+	
+	DFSTraversal(gTest);
+	
+return 0;
+}

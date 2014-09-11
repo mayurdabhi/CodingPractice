@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404154801 source:d:\codepractice\stringalgo\reverseword\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

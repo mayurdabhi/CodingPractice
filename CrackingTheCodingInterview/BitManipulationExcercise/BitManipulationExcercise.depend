@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404930453 source:d:\codepractice\cci\bitmanipulationexcercise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

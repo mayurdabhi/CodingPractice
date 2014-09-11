@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1405660087 source:d:\codepractice\linklist\deletenode_special\linklist.c
+
+1405659741 source:d:\codepractice\linklist\deletenode_special\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkList.c"
+
+1405659855 d:\codepractice\linklist\deletenode_special\linklist.c
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403537184 source:d:\codepractice\graph\unionfind_detect_cycle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1404332717 source:d:\codepractice\hackerrank\minimumwaitingtime\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<climits>
+	<algorithm>
+

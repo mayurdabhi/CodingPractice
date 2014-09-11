@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403928091 source:d:\codepractice\hackerrank\consistentsalaries\main.cpp
+	<iostream>
+	<list>
+

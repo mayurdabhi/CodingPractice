@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403552602 source:d:\codepractice\graph\problem12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

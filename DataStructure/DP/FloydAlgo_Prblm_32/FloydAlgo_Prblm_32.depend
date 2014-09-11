@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1404622304 source:d:\codepractice\dp\floydalgo_prblm_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

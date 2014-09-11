@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405667120 source:d:\codepractice\linklist\palindromcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+

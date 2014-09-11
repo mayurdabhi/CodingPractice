@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403091547 source:d:\codepractice\hackerrank\servicelane\main.c
+	<stdio.h>
+	<stdlib.h>
+

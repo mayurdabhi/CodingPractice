@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1409395352 source:d:\codepractice\ms\hackerearth1\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+	<list>
+	<sstream>
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1403676013 source:d:\codepractice\graph\tsp_problem41\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<assert.h>
+

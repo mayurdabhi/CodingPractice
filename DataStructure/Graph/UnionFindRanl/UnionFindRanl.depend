@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403540162 source:d:\codepractice\graph\unionfindranl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

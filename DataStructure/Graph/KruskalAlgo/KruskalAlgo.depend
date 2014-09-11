@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403586861 source:d:\codepractice\graph\kruskalalgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

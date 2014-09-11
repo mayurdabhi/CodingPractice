@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1405149363 source:d:\codepractice\cci\sorting_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1403545453 source:d:\codepractice\graph\problem11_12\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+

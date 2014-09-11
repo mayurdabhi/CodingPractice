@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403867337 source:d:\codepractice\searchsort\searching\main.c
+	<stdio.h>
+	<stdlib.h>
+
